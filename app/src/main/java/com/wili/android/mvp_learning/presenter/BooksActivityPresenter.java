@@ -1,7 +1,8 @@
-package com.wili.android.mvp_learning;
+package com.wili.android.mvp_learning.presenter;
 
-import com.wili.android.mvp_learning.respositories.Book;
-import com.wili.android.mvp_learning.respositories.BooksRepository;
+import com.wili.android.mvp_learning.repository.model.Book;
+import com.wili.android.mvp_learning.repository.BooksRepository;
+import com.wili.android.mvp_learning.view.BooksActivityView;
 
 import java.util.List;
 

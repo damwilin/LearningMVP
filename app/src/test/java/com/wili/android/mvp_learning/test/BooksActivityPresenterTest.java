@@ -1,9 +1,9 @@
 package com.wili.android.mvp_learning.test;
 
-import com.wili.android.mvp_learning.BooksActivityPresenter;
-import com.wili.android.mvp_learning.BooksActivityView;
-import com.wili.android.mvp_learning.respositories.Book;
-import com.wili.android.mvp_learning.respositories.BooksRepository;
+import com.wili.android.mvp_learning.presenter.BooksActivityPresenter;
+import com.wili.android.mvp_learning.view.BooksActivityView;
+import com.wili.android.mvp_learning.repository.model.Book;
+import com.wili.android.mvp_learning.repository.BooksRepository;
 
 import junit.framework.Assert;
 

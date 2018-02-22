@@ -1,4 +1,4 @@
-package com.wili.android.mvp_learning.respositories;
+package com.wili.android.mvp_learning.repository.model;
 
 /**
  * Created by Damian on 22.02.2018.
